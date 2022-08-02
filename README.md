@@ -1,0 +1,2 @@
+# Malignant-vs-Non-Malignant-Tumour-MRI-image-Detection-using-Deep-Learning-Methods
+Malignant vs Non Malignant Tumour MRI image Detection using Deep Learning Methods. We used two kind of brain tumour images from 2020 BraTS dataset . We choose 33 random images of Benign and malignant tumour images. Then we used “LableImg software” for manually labelling those images. Finally we used different deep learning methods to detect malignant and non malignant images. We get the accuracy of 99.5%.
